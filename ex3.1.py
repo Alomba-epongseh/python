@@ -1,7 +1,7 @@
 Names = ["Slyvia", "Syndy", "Sydiane", "Sirri"]
 
-for x in range(len(Names)):
-    print("hello " +Names[x] + " how are you doing.")
+for name in Names:
+    print("hello " +name + " how are you doing.")
 
 
 car = ["honda", "toyota"]
